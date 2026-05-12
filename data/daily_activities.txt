@@ -1,0 +1,5 @@
+hours:24
+sleeping:6-8
+studying:3-6
+socialising:1-4
+exercise:1-2
