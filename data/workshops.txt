@@ -1,0 +1,3 @@
+Workshops
+95, True, True
+70, True, False
